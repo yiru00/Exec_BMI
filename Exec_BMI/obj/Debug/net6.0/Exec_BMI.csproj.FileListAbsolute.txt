@@ -1,0 +1,15 @@
+/Users/jiangyiru/Desktop/practice/Exec_BMI/Exec_BMI/bin/Debug/net6.0/Exec_BMI
+/Users/jiangyiru/Desktop/practice/Exec_BMI/Exec_BMI/bin/Debug/net6.0/Exec_BMI.deps.json
+/Users/jiangyiru/Desktop/practice/Exec_BMI/Exec_BMI/bin/Debug/net6.0/Exec_BMI.runtimeconfig.json
+/Users/jiangyiru/Desktop/practice/Exec_BMI/Exec_BMI/bin/Debug/net6.0/Exec_BMI.dll
+/Users/jiangyiru/Desktop/practice/Exec_BMI/Exec_BMI/bin/Debug/net6.0/Exec_BMI.pdb
+/Users/jiangyiru/Desktop/practice/Exec_BMI/Exec_BMI/obj/Debug/net6.0/Exec_BMI.csproj.AssemblyReference.cache
+/Users/jiangyiru/Desktop/practice/Exec_BMI/Exec_BMI/obj/Debug/net6.0/Exec_BMI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiangyiru/Desktop/practice/Exec_BMI/Exec_BMI/obj/Debug/net6.0/Exec_BMI.AssemblyInfoInputs.cache
+/Users/jiangyiru/Desktop/practice/Exec_BMI/Exec_BMI/obj/Debug/net6.0/Exec_BMI.AssemblyInfo.cs
+/Users/jiangyiru/Desktop/practice/Exec_BMI/Exec_BMI/obj/Debug/net6.0/Exec_BMI.csproj.CoreCompileInputs.cache
+/Users/jiangyiru/Desktop/practice/Exec_BMI/Exec_BMI/obj/Debug/net6.0/Exec_BMI.dll
+/Users/jiangyiru/Desktop/practice/Exec_BMI/Exec_BMI/obj/Debug/net6.0/refint/Exec_BMI.dll
+/Users/jiangyiru/Desktop/practice/Exec_BMI/Exec_BMI/obj/Debug/net6.0/Exec_BMI.pdb
+/Users/jiangyiru/Desktop/practice/Exec_BMI/Exec_BMI/obj/Debug/net6.0/Exec_BMI.genruntimeconfig.cache
+/Users/jiangyiru/Desktop/practice/Exec_BMI/Exec_BMI/obj/Debug/net6.0/ref/Exec_BMI.dll
