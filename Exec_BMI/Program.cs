@@ -12,6 +12,7 @@
         catch (Exception ex)
         {
             Console.WriteLine(ex.Message);
+            return;
         }
 
         //取得體重
@@ -23,6 +24,7 @@
         catch (Exception ex)
         {
             Console.WriteLine(ex.Message);
+            return;
         }
 
         //BMI公式
@@ -45,6 +47,7 @@
         if (isWieght == false)
         {
             throw new Exception("必須是數值");
+       
         }
         return weight;
     }
@@ -57,7 +60,7 @@
         if (isHeight == false)
         {
             throw new Exception("必須是數值");
-        
+           
         }
         return height;
     }
