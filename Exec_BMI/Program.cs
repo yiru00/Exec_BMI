@@ -29,7 +29,7 @@
 
         //BMI公式
         double result=GenerateBMI(height, weight);
-        Console.WriteLine($"BMI為{ result.ToString("##.00")}");
+        Console.WriteLine($"BMI為{ result:##.00}");
     }
 
     private static double GenerateBMI(double height, double weight)
